@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-17T13:33:34 EDT" name="Default suite" finished-at="2022-03-17T13:33:56 EDT" duration-ms="21236">
+    <groups>
+    </groups>
+    <test started-at="2022-03-17T13:33:34 EDT" name="Default test" finished-at="2022-03-17T13:33:56 EDT" duration-ms="21236">
+      <class name="exam.Exam">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:exam.Exam@9ef8eb7]" started-at="2022-03-17T13:33:34 EDT" name="launchBrowser" finished-at="2022-03-17T13:33:35 EDT" duration-ms="1023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="login()[pri:-1, instance:exam.Exam@9ef8eb7]" started-at="2022-03-17T13:33:35 EDT" name="login" finished-at="2022-03-17T13:33:37 EDT" duration-ms="1849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="registerPatient()[pri:0, instance:exam.Exam@9ef8eb7]" started-at="2022-03-17T13:33:37 EDT" name="registerPatient" finished-at="2022-03-17T13:33:52 EDT" duration-ms="15151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPatient -->
+        <test-method signature="Logout()[pri:3, instance:exam.Exam@9ef8eb7]" started-at="2022-03-17T13:33:52 EDT" name="Logout" finished-at="2022-03-17T13:33:56 EDT" duration-ms="3181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- exam.Exam -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
